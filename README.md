@@ -44,3 +44,19 @@ This innovative app streamlines the process of transitioning from physical books
 - [ ] [User Settings](https://github.com/angeloajr/build_community_projects/issues/30)
 
 
+
+
+## Feature: A vape-to-earn protocol tied to the vape device itself using IoT and $VAPE coins
+This innovative protocol integrates Internet of Things (IoT) technology with blockchain to create a unique vape-to-earn system. Each vape device is equipped with smart sensors and connectivity features that track usage and maintenance data. This data is then securely stored on a blockchain, ensuring transparency and tamper-proof records. Users earn $VAPE coins – a cryptocurrency – by engaging with their vape device in a responsible and consistent manner. The more they use the device within recommended guidelines, the more they earn. This system incentivizes proper usage and device care, potentially reducing the likelihood of harmful overuse. It also encourages brand loyalty and provides manufacturers with valuable usage data. Benefits include enhanced user engagement, promotion of healthier vaping habits, and the creation of a new cryptocurrency-based reward system within the vaping community.
+
+***Stories***
+- [ ] [Device Registration](https://github.com/angeloajr/build_community_projects/issues/33)
+- [ ] [User Verification](https://github.com/angeloajr/build_community_projects/issues/34)
+- [ ] [VapingActivityTracking](https://github.com/angeloajr/build_community_projects/issues/35)
+- [ ] [Vape-to-Earn System Specification](https://github.com/angeloajr/build_community_projects/issues/36)
+- [ ] [Data Security Specifications](https://github.com/angeloajr/build_community_projects/issues/37)
+- [ ] [Vape-to-Earn Protocol Integration](https://github.com/angeloajr/build_community_projects/issues/38)
+- [ ] [Firmware Update Protocol](https://github.com/angeloajr/build_community_projects/issues/39)
+- [ ] [Vape-to-Earn Protocol Integration](https://github.com/angeloajr/build_community_projects/issues/40)
+
+
