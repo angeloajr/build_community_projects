@@ -76,3 +76,19 @@ The coordination protocol serves as an innovative approach to urban street clean
 - [ ] [Street Cleaning Orchestration Protocol](https://github.com/angeloajr/build_community_projects/issues/50)
 
 
+
+
+## Feature: Slackbot-Ring Integration for Visitor Notifications
+This feature involves a Slackbot that is fully integrated with the company’s Ring doorbell or security device. The primary function of this bot is to notify the organization through a designated Slack channel whenever someone is at the company door. When the Ring device detects motion or when the doorbell is pressed, the Slackbot instantly sends an alert to the channel, including the video feed or image captured by the camera. This immediate notification system enhances building security by allowing staff to quickly verify and respond to the presence of visitors, deliveries, or any unexpected activity. It also improves efficiency by eliminating the need to manually check entrance cameras or the door itself. Key benefits include heightened security, increased operational productivity, and streamlined visitor management, translating to a safer and more responsive workplace environment.
+
+***Stories***
+- [ ] [Slackbot Ring Integration](https://github.com/angeloajr/build_community_projects/issues/57)
+- [ ] [Slackbot Notification for Ring Device](https://github.com/angeloajr/build_community_projects/issues/58)
+- [ ] [Slackbot Ring Integration](https://github.com/angeloajr/build_community_projects/issues/59)
+- [ ] [User Permissions for Slackbot-Ring Integration](https://github.com/angeloajr/build_community_projects/issues/60)
+- [ ] [Door Event Handling](https://github.com/angeloajr/build_community_projects/issues/61)
+- [ ] [Security & Privacy Specifications](https://github.com/angeloajr/build_community_projects/issues/62)
+- [ ] [Debugging & Logs](https://github.com/angeloajr/build_community_projects/issues/63)
+- [ ] [Slackbot Ring Device Integration](https://github.com/angeloajr/build_community_projects/issues/64)
+
+
