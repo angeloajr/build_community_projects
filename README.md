@@ -108,3 +108,19 @@ In an innovative approach to token distribution, a SocialFi platform introduces 
 - [ ] [Belief Token Launch](https://github.com/angeloajr/build_community_projects/issues/74)
 
 
+
+
+## Feature: A web3 scantron testing system for desktop, mobile, and tablet
+This system modernizes the traditional Scantron test-taking methodology by leveraging Web3 technologies for enhanced security, transparency, and verifiability of exams. It allows users to complete multiple-choice assessments through a cross-platform interface that operates seamlessly on desktop, mobile, and tablet devices. The problems it solves include eliminating risks of tampering and fraudulent scoring by utilizing blockchain for result storage, and it diminishes manual grading labor. The benefits provided by such a system include instant result generation, increased trust in the exam process through immutable result records, and accessible exam taking for students and professionals alike from any device, filling gaps in the traditional education assessment infrastructure.
+
+***Stories***
+- [ ] [User Authentication](https://github.com/angeloajr/build_community_projects/issues/77)
+- [ ] [TestCreation for Web3 Scantron Testing System](https://github.com/angeloajr/build_community_projects/issues/78)
+- [ ] [Blockchain Integration for Web3 Scantron Testing System](https://github.com/angeloajr/build_community_projects/issues/79)
+- [ ] [Web3 Scantron Testing System Specifications](https://github.com/angeloajr/build_community_projects/issues/80)
+- [ ] [Web3 Scantron Testing Interface Specifications](https://github.com/angeloajr/build_community_projects/issues/81)
+- [ ] [Results Verification](https://github.com/angeloajr/build_community_projects/issues/82)
+- [ ] [Analytics Dashboard for Web3 Scantron Testing System](https://github.com/angeloajr/build_community_projects/issues/83)
+- [ ] [Mobile Responsiveness for Web3 Scantron Testing System](https://github.com/angeloajr/build_community_projects/issues/84)
+
+
