@@ -140,3 +140,19 @@ GroupFund Embedder is an innovative extension designed to seamlessly integrate a
 - [ ] [Support, Troubleshooting & User Feedback](https://github.com/angeloajr/build_community_projects/issues/94)
 
 
+
+
+## Feature: ChatFinance: Group Treasury Management App
+ChatFinance is an innovative solution designed to simplify the management of collective funds within popular group chat platforms such as SMS, Telegram, and WhatsApp. The app addresses the common challenge of managing shared finances for various group activities like trips, events, or collective gifts. It embeds seamlessly into existing group chats, providing a platform where members can securely contribute to a collective treasury. Key features include real-time tracking of contributions, transparent transaction history, automated reminders for dues, and options for voting on financial decisions. The platform ensures accountability and fairness in handling group funds, offering an array of benefits such as time-saving automation, reduction of disputes over money, and facilitating the smooth organization of group-funded activities.
+
+***Stories***
+- [ ] [Registration and Login](https://github.com/angeloajr/build_community_projects/issues/97)
+- [ ] [Contact Integration](https://github.com/angeloajr/build_community_projects/issues/98)
+- [ ] [ChatManagement Treasury Feature](https://github.com/angeloajr/build_community_projects/issues/99)
+- [ ] [Treasury Initialization](https://github.com/angeloajr/build_community_projects/issues/100)
+- [ ] [Contribution Tracking](https://github.com/angeloajr/build_community_projects/issues/101)
+- [ ] [Expense Reporting](https://github.com/angeloajr/build_community_projects/issues/102)
+- [ ] [Permissions and Roles for Shared Treasury Management](https://github.com/angeloajr/build_community_projects/issues/103)
+- [ ] [Notifications and Alerts for Group Chat Treasury](https://github.com/angeloajr/build_community_projects/issues/104)
+
+
