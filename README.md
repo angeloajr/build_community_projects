@@ -124,3 +124,19 @@ This system modernizes the traditional Scantron test-taking methodology by lever
 - [ ] [Mobile Responsiveness for Web3 Scantron Testing System](https://github.com/angeloajr/build_community_projects/issues/84)
 
 
+
+
+## Feature: GroupFund Embedder for SMS, WhatsApp, & Telegram
+GroupFund Embedder is an innovative extension designed to seamlessly integrate a shared community fund into group chats across various messaging platforms, including SMS, WhatsApp, and Telegram. This extension addresses the common challenge of managing group finances for activities such as group gifts, trips, or shared expenses. By embedding a collective fund into the chat interface, users can contribute, monitor, and manage funds transparently and effectively without the need for third-party apps or complicated payment splitting mechanisms. With easy tracking of contributions, automated reminders for unpaid pledges, and secure handling of transactions, GroupFund Embedder enhances the collaborative experience by creating a sense of trust and financial cohesion among the group members. Its benefits include increased contribution compliance, centralized fund management, reduced friction in handling funds, and a more organized method for financing group goals or emergencies.
+
+***Stories***
+- [ ] [Introduction & Purpose of the Extension](https://github.com/angeloajr/build_community_projects/issues/87)
+- [ ] [User Authentication & Security](https://github.com/angeloajr/build_community_projects/issues/88)
+- [ ] [Community Fund Creation & Management Specification](https://github.com/angeloajr/build_community_projects/issues/89)
+- [ ] [Integration Specifications](https://github.com/angeloajr/build_community_projects/issues/90)
+- [ ] [Fund Embedding Process & User Interface](https://github.com/angeloajr/build_community_projects/issues/91)
+- [ ] [Transaction Handling & Record Keeping](https://github.com/angeloajr/build_community_projects/issues/92)
+- [ ] [Notifications & Activity Updates for Community Funds](https://github.com/angeloajr/build_community_projects/issues/93)
+- [ ] [Support, Troubleshooting & User Feedback](https://github.com/angeloajr/build_community_projects/issues/94)
+
+
