@@ -156,3 +156,19 @@ ChatFinance is an innovative solution designed to simplify the management of col
 - [ ] [Notifications and Alerts for Group Chat Treasury](https://github.com/angeloajr/build_community_projects/issues/104)
 
 
+
+
+## Feature: A Bounty Platform for Collaborative Research
+The bounty platform for collaborative research is designed to incentivize and facilitate knowledge creation and problem-solving in a collaborative environment. Users, ranging from researchers to hobbyists, can post challenges or research questions along with a monetary reward, or 'bounty', for the individual or team able to provide the best solution or answer. The platform serves as an intermediary, ensuring fair conduct, managing the distribution of funds, and protecting intellectual property rights. The problem it solves includes the siloing of expertise and the slow pace of traditional research pathways. It encourages cross-disciplinary collaboration, speeds up the innovation process by tapping into a global talent pool, and democratizes access to expertise. The benefits include increased problem-solving efficiency, community engagement in research, faster innovation cycles, and direct financial incentives for contributors. It also works as a crowdsourcing tool that can be leverled by organizations and academic institutions for their R&D challenges.
+
+***Stories***
+- [ ] [Homepage Specification](https://github.com/angeloajr/build_community_projects/issues/107)
+- [ ] [Bounty-driven Collaborative Research Platform](https://github.com/angeloajr/build_community_projects/issues/108)
+- [ ] [Available Bounties](https://github.com/angeloajr/build_community_projects/issues/109)
+- [ ] [Bounty Submission Form](https://github.com/angeloajr/build_community_projects/issues/110)
+- [ ] [Research Repository Specification](https://github.com/angeloajr/build_community_projects/issues/111)
+- [ ] [Community Discussion for Collaborative Research Bounty Platform](https://github.com/angeloajr/build_community_projects/issues/112)
+- [ ] [FAQ Specifications](https://github.com/angeloajr/build_community_projects/issues/113)
+- [ ] [Contact Us Feature](https://github.com/angeloajr/build_community_projects/issues/114)
+
+
