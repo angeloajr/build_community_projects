@@ -172,3 +172,19 @@ The bounty platform for collaborative research is designed to incentivize and fa
 - [ ] [Contact Us Feature](https://github.com/angeloajr/build_community_projects/issues/114)
 
 
+
+
+## Feature: Logic Analyzer for Text
+This browser extension is designed to assist users in critically evaluating and understanding the logical structure of textual content. Leveraging advanced natural language processing algorithms, the extension parses sentences, identifies argumentative elements, and assesses the coherence of reasoning within any given body of text on a webpage. It solves the problem of recognizing fallacious reasoning or weak argumentation in online articles, forums, and social media posts. The benefits are manifold; it enhances critical thinking, accelerates research efficiency by quickly highlighting logical flaws, and improves one’s learning experience by breaking down complex arguments into understandable components. Overall, this tool is invaluable for students, researchers, educators, and anyone seeking to engage with content on a deeper analytical level.
+
+***Stories***
+- [ ] [Text Analysis Extension Interface](https://github.com/angeloajr/build_community_projects/issues/118)
+- [ ] [Text Parsing Specifications](https://github.com/angeloajr/build_community_projects/issues/119)
+- [ ] [Logic Analysis for Browser Extension](https://github.com/angeloajr/build_community_projects/issues/120)
+- [ ] [Text Analysis Visualization](https://github.com/angeloajr/build_community_projects/issues/121)
+- [ ] [Performance Optimization](https://github.com/angeloajr/build_community_projects/issues/122)
+- [ ] [Security Specifications for Text Analysis Browser Extension](https://github.com/angeloajr/build_community_projects/issues/123)
+- [ ] [User Settings](https://github.com/angeloajr/build_community_projects/issues/124)
+- [ ] [Text Analysis Logic Update](https://github.com/angeloajr/build_community_projects/issues/125)
+
+
