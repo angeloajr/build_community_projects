@@ -188,3 +188,19 @@ This browser extension is designed to assist users in critically evaluating and 
 - [ ] [Text Analysis Logic Update](https://github.com/angeloajr/build_community_projects/issues/125)
 
 
+
+
+## Feature: Zenon Unikernel Core Components and Security Measures
+The Zenon Unikernel architecture is designed to run as a lightweight, isolated instance directly on the hypervisor, eliminating the need for a traditional OS. Its core components are optimized for efficient operation in a unikernel environment; this includes an integrated PoW/PoS consensus mechanism that enables a secure, decentralized network capable of high transaction throughput. Networking capabilities are provided via a minimalistic stack tailored for inter-unikernel communication, ensuring low-latency and high bandwidth. Resource usage is meticulously managed to ensure minimal footprint and maximum performance. Basic security measures include strict type safety, memory protection, and minimal attack surface due to the reduced code base; there's also sandboxing for critical components, routine audits for common vulnerabilities, and robust encryption mechanisms to safeguard against external threats, thus providing a resilient framework for building distributed applications.
+
+***Stories***
+- [ ] [Initialization and Bootstrapping of Zenon Unikernel](https://github.com/angeloajr/build_community_projects/issues/128)
+- [ ] [Memory Management and Resource Allocation for Zenon Unikernel](https://github.com/angeloajr/build_community_projects/issues/129)
+- [ ] [Consensus Mechanism Integration (PoW/PoS)](https://github.com/angeloajr/build_community_projects/issues/130)
+- [ ] [Networking and Communication Protocols in Zenon Unikernel](https://github.com/angeloajr/build_community_projects/issues/131)
+- [ ] [System Call Interface and Driver Support](https://github.com/angeloajr/build_community_projects/issues/132)
+- [ ] [Zenon Unikernel Application Execution Environment Specifications](https://github.com/angeloajr/build_community_projects/issues/133)
+- [ ] [Security Framework and Threat Mitigation for Zenon Unikernel](https://github.com/angeloajr/build_community_projects/issues/134)
+- [ ] [Performance Monitoring and Optimization for Zenon Unikernel](https://github.com/angeloajr/build_community_projects/issues/135)
+
+
